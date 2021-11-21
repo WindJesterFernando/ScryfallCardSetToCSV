@@ -1,0 +1,17 @@
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/bin/Debug/net5.0/ScryfallDynaimcProcessing.deps.json
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/bin/Debug/net5.0/ScryfallDynaimcProcessing.runtimeconfig.json
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/bin/Debug/net5.0/ScryfallDynaimcProcessing.runtimeconfig.dev.json
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/bin/Debug/net5.0/ScryfallDynaimcProcessing.dll
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/bin/Debug/net5.0/ref/ScryfallDynaimcProcessing.dll
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/bin/Debug/net5.0/ScryfallDynaimcProcessing.pdb
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/obj/Debug/net5.0/ScryfallDynaimcProcessing.csprojAssemblyReference.cache
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/obj/Debug/net5.0/ScryfallDynaimcProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/obj/Debug/net5.0/ScryfallDynaimcProcessing.AssemblyInfoInputs.cache
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/obj/Debug/net5.0/ScryfallDynaimcProcessing.AssemblyInfo.cs
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/obj/Debug/net5.0/ScryfallDynaimcProcessing.csproj.CoreCompileInputs.cache
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/obj/Debug/net5.0/ScryfallDynaimcProcessing.dll
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/obj/Debug/net5.0/ref/ScryfallDynaimcProcessing.dll
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/obj/Debug/net5.0/ScryfallDynaimcProcessing.pdb
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/obj/Debug/net5.0/ScryfallDynaimcProcessing.genruntimeconfig.cache
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/obj/Debug/net5.0/ScryfallDynaimcProcessing.csproj.CopyComplete

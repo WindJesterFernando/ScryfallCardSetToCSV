@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fiLVLMXESpP7Uvvwp4e8iVV5Dt0nhg+FcWWCZIdv0hV3Ru+tOiSoOPYOnFBvhqs5dmC3hfv171W5X6SlJusvDA==",
+  "success": true,
+  "projectFilePath": "/Users/fernandorestituto/Desktop/GBC/Coded Resources/ScryfallDynaimcProcessing/ScryfallDynaimcProcessing.csproj",
+  "expectedPackageFiles": [
+    "/Users/fernandorestituto/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
